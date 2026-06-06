@@ -6,13 +6,11 @@
 
   <br><br>
 
-  <h2><b>Backend Developer</b></h2>
+  <h3><b>Full Stack Developer</b></h3>
 
   <br><br><br>
-  <hr>
-  <br><br><br>
 
-  <h1>🛠 TECH STACK</h1>
+  <h3>🛠 TECH STACK</h3>
   <br>
 
   <p>
@@ -25,15 +23,12 @@
   </p>
 
   <br><br><br>
-  <hr>
-  <br><br><br>
 
-  <h1>📜 COMPLETED COURSES</h1>
+  <h3>📜 COMPLETED COURSES</h3>
   <br>
 
-  <h3>🔹 Python Core Development — <a href="ТВОЄ_ПОСИЛАННЯ">Verify Credential</a></h3>
+  <h4>🔹 Python Core Development — <a href="ТВОЄ_ПОСИЛАННЯ">Verify Credential</a></h4>
   <br>
-  <h3>🔹 Web Application Architecture with Django — <a href="ТВОЄ_ПОСИЛАННЯ">Verify Credential</a></h3>
+  <h4>🔹 Web Application Architecture with Django — <a href="ТВОЄ_ПОСИЛАННЯ">Verify Credential</a></h4>
 
 </div>
-
