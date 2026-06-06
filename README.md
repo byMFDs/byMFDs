@@ -8,7 +8,9 @@
 
   <h3><b>Full Stack Developer</b></h3>
 
-  <br><br><br>
+  <br><br>
+  <hr> 
+  <br><br>
 
   <h3>🛠 TECH STACK</h3>
   <br>
@@ -22,7 +24,9 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </p>
 
-  <br><br><br>
+  <br><br>
+  <hr> 
+  <br><br>
 
   <h3>📜 COMPLETED COURSES</h3>
   <br>
