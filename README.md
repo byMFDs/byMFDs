@@ -12,7 +12,7 @@
   <hr> 
   <br><br>
 
-  <h3>🛠 TECH STACK</h3>
+  <h2>🛠 TECH STACK</h2>
   <br>
 
   <p>
@@ -28,7 +28,7 @@
   <hr> 
   <br><br>
 
-  <h3>📜 COMPLETED COURSES</h3>
+  <h2>📜 COMPLETED COURSES</h2>
   <br>
 
   <h4>🔹 Python Core Development — <a href="ТВОЄ_ПОСИЛАННЯ">Verify Credential</a></h4>
