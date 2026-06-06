@@ -12,7 +12,7 @@
   <hr> 
   <br><br>
 
-  <h2>🛠 TECH STACK</h2>
+  <h1>🛠 TECH STACK</h1>
   <br>
 
   <p>
