@@ -28,7 +28,7 @@
   <hr> 
   <br><br>
 
-  <h2>📜 COMPLETED COURSES</h2>
+  <h1>📜 COMPLETED COURSES</h1>
   <br>
 
   <h4>🔹 Python Core Development — <a href="ТВОЄ_ПОСИЛАННЯ">Verify Credential</a></h4>
