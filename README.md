@@ -1,16 +1,19 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=800&size=50&pause=1000&color=21C865&center=true&vCenter=true&width=800&lines=Danylo+Rudenko;byMFD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Russo+One&weight=900&size=50&pause=1000&color=21C865&center=true&vCenter=true&width=800&lines=Danylo+Rudenko;byMFD" alt="Typing SVG" />
   </a>
 
+  <br><br>
+
+  <h2><b>Backend Developer</b></h2>
+
+  <br><br><br>
+  <hr>
+  <br><br><br>
+
+  <h1>🛠 TECH STACK</h1>
   <br>
-
-  <p><b>Software Engineer specializing in backend development, systems architecture, and automation.</b></p>
-
-  <br><hr><br>
-
-  <h3>🛠 Tech Stack</h3>
 
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -21,14 +24,16 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </p>
 
-  <br><hr><br>
+  <br><br><br>
+  <hr>
+  <br><br><br>
 
-  <h3>📜 ПРОЙДЕНІ КУРСИ</h3>
+  <h1>📜 COMPLETED COURSES</h1>
+  <br>
 
-  <p>
-    🔹 <b>Python Core Development</b> — <a href="ТВОЄ_ПОСИЛАННЯ">Verify Credential</a> 
-    <br><br>
-    🔹 <b>Web Application Architecture with Django</b> — <a href="ТВОЄ_ПОСИЛАННЯ">Verify Credential</a>
-  </p>
+  <h3>🔹 Python Core Development — <a href="ТВОЄ_ПОСИЛАННЯ">Verify Credential</a></h3>
+  <br>
+  <h3>🔹 Web Application Architecture with Django — <a href="ТВОЄ_ПОСИЛАННЯ">Verify Credential</a></h3>
 
 </div>
+
