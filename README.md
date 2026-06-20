@@ -31,7 +31,7 @@
   <h3>📜 COMPLETED COURSES</h3>
   <br>
 
-  <h4>🔹 Python Core Development — <a href="ТВОЄ_ПОСИЛАННЯ">Verify Credential</a></h4>
+  <h4>🔹 Python Core Development — <a href="https://github.com/byMFDs/byMFDs/blob/main/c1%20cerf.PNG">Verify Credential</a></h4>
   <br>
   <h4>🔹 Web Application Architecture with Django — <a href="ТВОЄ_ПОСИЛАННЯ">Verify Credential</a></h4>
 
