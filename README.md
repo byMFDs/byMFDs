@@ -31,11 +31,11 @@
   <h3>📜 COMPLETED COURSES</h3>
   <br>
 
-  <h4>🔹 Python Basic — <a href="https://github.com/byMFDs/byMFDs/blob/main/c1%20cerf.PNG">Check</a></h4>
+  <h3>🔹 Python Basic — <a href="https://github.com/byMFDs/byMFDs/blob/main/c1%20cerf.PNG">Check</a></h4>
   <br>
-  <h4>🔹 Python Middle — <a href="https://github.com/byMFDs/byMFDs/blob/main/tutrle.PNG">Check</a></h4>
+  <h3>🔹 Python Middle — <a href="https://github.com/byMFDs/byMFDs/blob/main/tutrle.PNG">Check</a></h4>
   <br>
-  <h4>🔹 Python Pro — <a href="https://github.com/byMFDs/byMFDs/blob/main/c2%20cerf.PNG">Check</a></h4>
+  <h3>🔹 Python Pro — <a href="https://github.com/byMFDs/byMFDs/blob/main/c2%20cerf.PNG">Check</a></h4>
   
 
 </div>
