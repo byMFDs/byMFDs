@@ -1,99 +1,138 @@
 <div align="center">
 
 <!-- ═══════════ HEADER ═══════════ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Russo+One&weight=900&size=50&pause=1000&color=21C865&center=true&vCenter=true&width=800&height=80&lines=Danylo+Rudenko;byMFD" alt="Danylo Rudenko — byMFD" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:21C865&height=200&section=header&text=Danylo%20Rudenko&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=byMFD&descSize=20&descAlignY=60" width="100%" alt="Danylo Rudenko — byMFD" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1500&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Developer;Python+%26+Django;Ukraine+%2F+Poland" alt="Full Stack Developer · Python & Django · Ukraine / Poland" />
-</a>
-
-<br>
-
-<!-- ═══════════ CONTACTS ═══════════ -->
-<a href="https://horizonnect.dev">
-  <img src="https://img.shields.io/badge/Website-horizonnect.dev-21C865?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-</a>
-<a href="https://t.me/byMFD">
-  <img src="https://img.shields.io/badge/Telegram-@byMFD-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-<a href="mailto:bymfd.official@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=21C865&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Developer;Python+%26+Django;JavaScript+%26+Frontend;Ukraine+%2F+Poland" alt="Full Stack Developer · Python & Django · JavaScript · Ukraine / Poland" />
 </a>
 
 <br><br>
 
+<!-- ═══════════ CONTACTS ═══════════ -->
+<a href="https://horizonnect.dev">
+  <img src="https://img.shields.io/badge/Website-horizonnect.dev-21C865?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Website" />
+</a>
+<a href="https://t.me/byMFD">
+  <img src="https://img.shields.io/badge/Telegram-@byMFD-26A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=0d1117" alt="Telegram" />
+</a>
+<a href="mailto:bymfd.official@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+</a>
+<a href="https://github.com/byMFDs">
+  <img src="https://img.shields.io/badge/GitHub-byMFDs-21C865?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
+</a>
+
+<br><br>
+
+<!-- ═══════════ ABOUT ═══════════ -->
+<h2>About</h2>
+
+```python
+class Developer:
+    name     = "Danylo Rudenko"
+    nickname = "byMFD"
+    role     = "Full Stack Developer"
+    location = "Ukraine / Poland"
+
+    backend  = ["Python", "Django"]
+    frontend = ["JavaScript", "HTML5", "CSS3"]
+    tools    = ["Git", "GitHub", "Linux"]
+
+    website  = "https://horizonnect.dev"
+```
+
+<br>
+
 <!-- ═══════════ TECH STACK ═══════════ -->
-<h2>🛠 Tech Stack</h2>
+<h2>Tech Stack</h2>
 
-<p>
-  <b>Backend</b><br><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-</p>
-
-<p>
-  <b>Frontend</b><br><br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-<p>
-  <b>Tools</b><br><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+<table>
+  <tr>
+    <th align="center">Backend</th>
+    <th align="center">Frontend</th>
+    <th align="center">Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,django&theme=dark" alt="Python, Django" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="JavaScript, HTML5, CSS3" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,linux&theme=dark" alt="Git, GitHub, Linux" />
+    </td>
+  </tr>
+</table>
 
 <!--
-  Uncomment and edit the badges you actually use:
-
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/REST_API-21C865?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+  Add more icons by editing the `i=` list, for example:
+  postgres, docker, nginx, vscode, pycharm, figma
+  Full list: https://skillicons.dev
 -->
 
 <br>
 
 <!-- ═══════════ PROJECTS ═══════════ -->
-<!--
-  Add your projects here, for example:
+<h2>Projects</h2>
 
-  <h2>🚀 Projects</h2>
-  <p>
-    <b><a href="https://horizonnect.dev">HorizonNect</a></b> — short description of what it does<br>
-    <sub>Python · Django · HTML · CSS</sub>
-  </p>
--->
+<table>
+  <tr>
+    <td>
+      <b><a href="https://horizonnect.dev">HorizonNect</a></b><br>
+      <!-- TODO: replace the line below with a short description of what HorizonNect does -->
+      My main web project — live at <a href="https://horizonnect.dev">horizonnect.dev</a>.<br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <!-- ═══════════ COURSES ═══════════ -->
-<h2>📜 Completed Courses</h2>
+<h2>Certifications</h2>
 
-<p>
-  🔹 <b>Python Basic</b> — <a href="https://github.com/byMFDs/byMFDs/blob/main/c1%20cerf.PNG">View certificate</a>
-</p>
-
-<p>
-  🔹 <b>Python Middle</b> — <a href="#">View certificate</a>
-  <!-- TODO: replace "#" with the real link to your Python Middle certificate -->
-</p>
+<table>
+  <tr>
+    <td><b>Python Basic</b></td>
+    <td><a href="https://github.com/byMFDs/byMFDs/blob/main/c1%20cerf.PNG">View certificate</a></td>
+  </tr>
+  <tr>
+    <td><b>Python Middle</b></td>
+    <!-- TODO: when you have the link, replace "Completed" with:
+         <a href="YOUR_CERTIFICATE_LINK">View certificate</a> -->
+    <td>Completed</td>
+  </tr>
+</table>
 
 <br>
 
 <!-- ═══════════ GITHUB STATS ═══════════ -->
-<h2>📊 GitHub Stats</h2>
+<h2>GitHub Stats</h2>
 
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=byMFDs&show_icons=true&hide_border=true&bg_color=0d1117&title_color=21C865&icon_color=21C865&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byMFDs&layout=compact&hide_border=true&bg_color=0d1117&title_color=21C865&text_color=c9d1d9" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byMFDs&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=21C865&text_color=c9d1d9" alt="Top languages" />
 </p>
 
 <p>
   <img src="https://streak-stats.demolab.com/?user=byMFDs&theme=dark&background=0d1117&ring=21C865&fire=21C865&currStreakLabel=21C865&hide_border=true" alt="GitHub streak" />
 </p>
 
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=byMFDs&bg_color=0d1117&color=21C865&line=21C865&point=ffffff&area=true&area_color=21C865&hide_border=true" alt="Contribution activity graph" width="95%" />
+</p>
+
+<br>
+
+<!-- ═══════════ CTA ═══════════ -->
+<sub>Have a project or an idea? Reach out via <a href="https://t.me/byMFD">Telegram</a> or <a href="mailto:bymfd.official@gmail.com">email</a>.</sub>
+
 <!-- ═══════════ FOOTER ═══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=21C865&height=100&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21C865,100:0d1117&height=100&section=footer" width="100%" alt="" />
 
 </div>
