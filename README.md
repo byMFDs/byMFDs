@@ -102,10 +102,16 @@ class Developer:
     <td><a href="https://github.com/byMFDs/byMFDs/blob/main/c1%20cerf.PNG">View certificate</a></td>
   </tr>
   <tr>
-    <td><b>Python Middle</b></td>
-    <!-- TODO: when you have the link, replace "Completed" with:
-         <a href="YOUR_CERTIFICATE_LINK">View certificate</a> -->
-    <td>Completed</td>
+    <td><b>Python Pro</b></td>
+    <td><a href="https://github.com/byMFDs/byMFDs/blob/main/c2%20cerf.PNG">View certificate</a></td>
+  </tr>
+  <tr>
+    <td><b>Python Turtle></td>
+    <td><a href="https://github.com/byMFDs/byMFDs/blob/main/tutrle%20cerf.PNG">View certificate</a></td>
+  </tr>
+  <tr>
+    <td><b>HTML/CSS></td>
+    <td><a href="https://github.com/byMFDs/byMFDs/blob/main/tutrle%20cerf.PNG">View certificate</a></td>
   </tr>
 </table>
 
