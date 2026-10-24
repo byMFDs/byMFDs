@@ -99,19 +99,23 @@ class Developer:
 <table>
   <tr>
     <td><b>Python Basic</b></td>
-    <td><a href="https://github.com/byMFDs/byMFDs/blob/main/c1%20cerf.PNG">View certificate</a></td>
+    <td><a href="https://github.com/byMFDs/byMFDs/blob/main/python-basic.PNG">View certificate</a></td>
   </tr>
   <tr>
-    <td><b>Python Pro</b></td>
-    <td><a href="https://github.com/byMFDs/byMFDs/blob/main/c2%20cerf.PNG">View certificate</a></td>
+    <td><b>Python Turtle</b></td>
+    <td><a href="https://github.com/byMFDs/byMFDs/blob/main/python-turtle.PNG">View certificate</a></td>
   </tr>
   <tr>
     <td><b>Python Turtle></td>
-    <td><a href="https://github.com/byMFDs/byMFDs/blob/main/tutrle%20cerf.PNG">View certificate</a></td>
+    <td><a href="https://github.com/byMFDs/byMFDs/blob/main/python-pro.PNG">View certificate</a></td>
   </tr>
   <tr>
     <td><b>HTML/CSS></td>
-    <td><a href="https://github.com/byMFDs/byMFDs/blob/main/tutrle%20cerf.PNG">View certificate</a></td>
+    <td><a href="https://github.com/byMFDs/byMFDs/blob/main/html-css.jpg">View certificate</a></td>
+  </tr>
+  <tr>
+    <td><b>HTML/CSS></td>
+    <td><a href="https://github.com/byMFDs/byMFDs/blob/main/git-github.png">View certificate</a></td>
   </tr>
 </table>
 
