@@ -29,7 +29,7 @@ class Developer:
 
 ## $ ls ~/projects
 
-**[HorizonNect](https://horizonnect.dev)**
+**[Horizonnect](https://horizonnect.dev)**
 <!-- TODO: swap the line below for a real one-liner about what HorizonNect does -->
 My main web project, live at [horizonnect.dev](https://horizonnect.dev).
 
